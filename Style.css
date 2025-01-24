@@ -1,0 +1,57 @@
+
+body {
+  background-color: rgb(240, 240, 240);
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+
+header {
+  text-align: center;
+  padding: 5px;
+  background-color: rgb(200, 200, 200);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+  font-family: Times New Roman;
+  color: white;
+  position: relative;
+  top : -20px;
+}
+
+section {
+  margin: 20px;
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+section img {
+  text-align: center;
+  
+  
+}
+
+ul li {
+  color: blue;
+  margin: 10px 0;
+  list-style: none;
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: rgb(200, 200, 200);
+}
+
+footer a {
+  color: blue;
+  text-decoration: none;
+  margin: 10px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
